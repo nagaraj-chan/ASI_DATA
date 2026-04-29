@@ -14,5 +14,7 @@ ASI_DATA represents time-series energy data capturing both solar power generatio
 
 This dataset is typically used for:
 - Energy analysis  
-- Load forecasting  
-- Optimizing the balance between renewable generation and consumption
+- Load forecasting   
+- Demand reduction  
+- Energy dispatch  
+
